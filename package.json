@@ -6,7 +6,7 @@
     "name": "Cristian Sánchez",
     "email": "devcristiansanchez@gmail.com"
   },
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "private": false,
   "license": "MIT",
   "scripts": {
